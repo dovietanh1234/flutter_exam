@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Flutter_exam4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exam_flutter.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ApiSpringboot.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
